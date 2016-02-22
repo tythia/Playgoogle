@@ -1,0 +1,55 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Light.NoTitleBar">
+        <item name="android:windowAnimationStyle">@style/Animation</item>
+        <item name="android:configChanges">locale|keyboard|keyboardHidden|orientation</item>
+        <item name="android:launchMode">standard</item>
+        <item name="android:windowSoftInputMode">stateAlwaysHidden</item>
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:screenOrientation">portrait</item>
+    </style>
+
+    <style name="Animation">
+        <item name="android:activityOpenEnterAnimation">@null</item>
+        <item name="android:activityOpenExitAnimation">@null</item>
+        <item name="android:activityCloseEnterAnimation">@null</item>
+        <item name="android:activityCloseExitAnimation">@null</item>
+        <item name="android:taskOpenEnterAnimation">@null</item>
+        <item name="android:taskOpenExitAnimation">@null</item>
+        <item name="android:taskCloseEnterAnimation">@null</item>
+        <item name="android:taskCloseExitAnimation">@null</item>
+        <item name="android:taskToFrontEnterAnimation">@null</item>
+        <item name="android:taskToFrontExitAnimation">@null</item>
+        <item name="android:taskToBackEnterAnimation">@null</item>
+        <item name="android:taskToBackExitAnimation">@null</item>
+    </style>
+    <!-- activity background -->
+    <style name="lj_common_app_style">
+        <item name="android:background">@color/lj_color_app_bg</item>
+    </style>
+
+    <!-- main button style -->
+    <style name="lj_style_main_btn">
+        <item name="android:layout_height">46dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:background">@drawable/bg_common_circle_rectangle_blue</item>
+        <item name="android:textColor">@color/lj_color_white</item>
+        <item name="android:textSize">@dimen/lj_text_size_big</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginRight">@dimen/lj_text_size_normal</item>
+        <item name="android:layout_marginLeft">@dimen/lj_text_size_normal</item>
+    </style>
+
+    <!-- second button style -->
+    <style name="lj_style_second_btn">
+        <item name="android:layout_height">46dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:background">@drawable/bg_common_rectangle_white</item>
+        <item name="android:textColor">@color/select_text_color_second_btn</item>
+        <item name="android:textSize">@dimen/lj_text_size_big</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    style="@style/lj_common_app_style"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.transfar.common.ui.view.widget.LJTitleBar
+        android:id="@+id/title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <ListView
+        android:id="@+id/list_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/lj_color_transparent"
+        android:cacheColorHint="@color/lj_color_transparent"
+        android:divider="#c3c3c3"
+        android:dividerHeight="1px"
+        android:fadingEdge="none"
+        android:headerDividersEnabled="false"
+        android:listSelector="@null"
+        android:overScrollMode="never"
+        android:scrollbars="none" />
+
+</LinearLayout><!-- From: file:/C:/Users/lenovo/workspace/Widget/app/src/main/res/layout/activity_mobile_list.xml -->

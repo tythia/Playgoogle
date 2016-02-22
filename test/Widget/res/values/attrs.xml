@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <!-- LJ table view -->
+    <declare-styleable name="LJ_Table_View">
+
+        <!-- 左侧文字 -->
+        <attr name="leftText" format="string" />
+        <!-- 右侧文字 -->
+        <attr name="rightText" format="string" />
+        <!-- 右侧文字hint -->
+        <attr name="rightTextHint" format="string" />
+        <!-- 中间文字 -->
+        <attr name="contentText" format="string" />
+        <!-- 是否显示右箭头 -->
+        <attr name="showArrow" format="boolean" />
+        <!-- 左侧文字颜色 -->
+        <attr name="leftTextColor" format="reference|color" />
+        <!-- 中间文字颜色 -->
+        <attr name="contentTextColor" format="reference|color" />
+        <!-- 右侧文字颜色 -->
+        <attr name="rightTextColor" format="reference|color" />
+        <!-- 右侧文字暗提示颜色 -->
+        <attr name="rightTextHintColor" format="reference|color" />
+        <!-- 左侧显示的图片 -->
+        <attr name="leftImage" format="reference" />
+        <!-- 是否可以改变背景色 -->
+        <attr name="changeBackground" format="boolean" />
+        <!-- 左侧文字数目，不够的已空格补充 -->
+        <attr name="leftCharNum" format="integer" />
+        <!-- 控件显示位置 -->
+        <attr name="type">
+            <flag name="top" value="0" />
+            <flag name="center" value="1" />
+            <flag name="bottom" value="2" />
+            <flag name="single" value="3" />
+        </attr>
+    </declare-styleable>
+
+    <!-- LJ lable view -->
+    <declare-styleable name="LJ_Label_View">
+
+        <!-- 左侧文字 -->
+        <attr name="labelLeftText" format="string" />
+        <!-- 中间文字 -->
+        <attr name="labelContentText" format="string" />
+        <!-- 右侧文字 -->
+        <attr name="labelRightText" format="string" />
+        <!-- 左侧文字颜色 -->
+        <attr name="labelLeftColor" format="reference|color" />
+        <!-- 中间文字颜色 -->
+        <attr name="labelContentColor" format="reference|color" />
+        <!-- 右侧文字颜色 -->
+        <attr name="labelRightColor" format="reference|color" />
+    </declare-styleable>
+
+    <!-- LJ input view -->
+    <declare-styleable name="LJ_Input_View">
+
+        <!-- 左侧图片 -->
+        <attr name="inputLeftImage" format="reference" />
+        <!-- 左侧文字 -->
+        <attr name="inputLeftText" format="string" />
+        <!-- 中间文字 -->
+        <attr name="inputContentText" format="string" />
+        <!-- 中间文字 -->
+        <attr name="inputContentHint" format="string" />
+        <!-- 右侧文字 -->
+        <attr name="inputBtnText" format="string" />
+        <!-- 左侧文字颜色 -->
+        <attr name="inputLeftTextColor" format="reference|color" />
+        <!-- 中间文字颜色 -->
+        <attr name="inputContentTextColor" format="reference|color" />
+        <!-- 中间文字颜色 -->
+        <attr name="inputHintColor" format="reference|color" />
+        <!-- 左侧文字数目，不够的已空格补充 -->
+        <attr name="inputLeftCharNum" format="integer" />
+        <!-- 文本框文字最大字符数 -->
+        <attr name="inputMaxInputLength" format="integer" />
+        <!-- 是否显示删除按钮 -->
+        <attr name="inputShowDelete" format="boolean" />
+        <!-- 控件显示位置 -->
+        <attr name="inputViewType">
+            <flag name="top" value="0" />
+            <flag name="center" value="1" />
+            <flag name="bottom" value="2" />
+            <flag name="single" value="3" />
+        </attr>
+        <!-- 输入的文本类型 -->
+        <attr name="inputType">
+            <flag name="number" value="0" />
+            <flag name="password" value="1" />
+            <!-- 无限制 -->
+            <flag name="none" value="2" />
+            <!-- 不允许输入 -->
+            <flag name="disable" value="3" />
+        </attr>
+        <!-- 输入框文本对齐方式 -->
+        <attr name="inputTextAlign">
+            <flag name="left" value="0" />
+            <flag name="center" value="1" />
+            <flag name="right" value="2" />
+        </attr>
+    </declare-styleable>
+
+    <!-- LJ multi table view -->
+    <declare-styleable name="LJ_Multi_Table_View">
+        <!-- 左侧文字一 -->
+        <attr name="MTLeftText1" format="string" />
+        <!-- 左侧文字二 -->
+        <attr name="MTLeftText2" format="string" />
+        <!-- 左侧文字三 -->
+        <attr name="MTLeftText3" format="string" />
+        <!-- 右侧文字一 -->
+        <attr name="MTRightText1" format="string" />
+        <!-- 右侧文字二 -->
+        <attr name="MTRightText2" format="string" />
+        <!-- 右侧文字一颜色 -->
+        <attr name="MTRightTextColor1" format="reference|color" />
+        <!-- 右侧文字二颜色 -->
+        <attr name="MTRightTextColor2" format="reference|color" />
+        <!-- 左侧文字二前部图片 -->
+        <attr name="MTLeftImage2" format="reference" />
+        <!-- 左侧文字三前部图片 -->
+        <attr name="MTLeftImage3" format="reference" />
+        <!-- 右侧第一行显示图片 -->
+        <attr name="MTRightImage1" format="reference" />
+        <!-- 右侧第二行显示图片 -->
+        <attr name="MTRightImage2" format="reference" />
+        <!-- 是否显示右箭头 -->
+        <attr name="MTShowArrow" format="boolean" />
+        <!-- 是否可以改变背景色 -->
+        <attr name="MTChangeBackground" format="boolean" />
+        <!-- 控件显示位置 -->
+        <attr name="MTType">
+            <flag name="top" value="0" />
+            <flag name="center" value="1" />
+            <flag name="bottom" value="2" />
+            <flag name="single" value="3" />
+        </attr>
+    </declare-styleable>
+
+</resources>

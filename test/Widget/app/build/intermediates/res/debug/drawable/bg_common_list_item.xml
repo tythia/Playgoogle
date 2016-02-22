@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Pressed -->
+    <item android:state_enabled="true" android:state_pressed="true" android:drawable="@color/lj_textcolor_gray_lighter"/>
+   
+    <!-- disable -->
+    <item android:state_enabled="false" android:drawable="@color/lj_textcolor_gray_lighter"/>
+
+    <!-- normal -->
+    <item android:drawable="@color/lj_color_white"/>
+
+</selector><!-- From: file:/C:/Users/lenovo/workspace/Widget/app/src/main/res/drawable/bg_common_list_item.xml -->

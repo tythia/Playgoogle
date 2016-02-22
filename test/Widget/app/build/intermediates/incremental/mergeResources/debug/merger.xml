@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\lenovo\workspace\Widget\app\src\main\res"><file name="select_text_color_identifycode" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\color\select_text_color_identifycode.xml" qualifiers="" type="color"/><file name="select_text_color_second_btn" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\color\select_text_color_second_btn.xml" qualifiers="" type="color"/><file name="bg_common_circle_rectangle_blue" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable\bg_common_circle_rectangle_blue.xml" qualifiers="" type="drawable"/><file name="bg_common_circle_rectangle_gray" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable\bg_common_circle_rectangle_gray.xml" qualifiers="" type="drawable"/><file name="bg_common_circle_rectangle_white" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable\bg_common_circle_rectangle_white.xml" qualifiers="" type="drawable"/><file name="bg_common_list_item" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable\bg_common_list_item.xml" qualifiers="" type="drawable"/><file name="bg_common_rectangle_gray" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable\bg_common_rectangle_gray.xml" qualifiers="" type="drawable"/><file name="bg_common_rectangle_white" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable\bg_common_rectangle_white.xml" qualifiers="" type="drawable"/><file name="circle_rectangle_blue_normal" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable\circle_rectangle_blue_normal.xml" qualifiers="" type="drawable"/><file name="circle_rectangle_blue_press" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable\circle_rectangle_blue_press.xml" qualifiers="" type="drawable"/><file name="circle_rectangle_gray_normal" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable\circle_rectangle_gray_normal.xml" qualifiers="" type="drawable"/><file name="circle_rectangle_gray_press" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable\circle_rectangle_gray_press.xml" qualifiers="" type="drawable"/><file name="circle_rectangle_white" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable\circle_rectangle_white.xml" qualifiers="" type="drawable"/><file name="ic_launcher" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="bg_coupon_item" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\bg_coupon_item.png" qualifiers="xhdpi-v4" type="drawable"/><file name="common_btn_back_button" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\common_btn_back_button.png" qualifiers="xhdpi-v4" type="drawable"/><file name="common_btn_hover_back_button" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\common_btn_hover_back_button.png" qualifiers="xhdpi-v4" type="drawable"/><file name="common_btn_titlebar" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\common_btn_titlebar.png" qualifiers="xhdpi-v4" type="drawable"/><file name="common_btn_titlebar_select" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\common_btn_titlebar_select.png" qualifiers="xhdpi-v4" type="drawable"/><file name="common_tab_deliver_goods" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\common_tab_deliver_goods.png" qualifiers="xhdpi-v4" type="drawable"/><file name="common_tab_deliver_goods_select" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\common_tab_deliver_goods_select.png" qualifiers="xhdpi-v4" type="drawable"/><file name="common_tab_exploration" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\common_tab_exploration.png" qualifiers="xhdpi-v4" type="drawable"/><file name="common_tab_exploration_select" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\common_tab_exploration_select.png" qualifiers="xhdpi-v4" type="drawable"/><file name="common_tab_goods_manager" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\common_tab_goods_manager.png" qualifiers="xhdpi-v4" type="drawable"/><file name="common_tab_goods_manager_select" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\common_tab_goods_manager_select.png" qualifiers="xhdpi-v4" type="drawable"/><file name="common_tab_me" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\common_tab_me.png" qualifiers="xhdpi-v4" type="drawable"/><file name="common_tab_message_manager" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\common_tab_message_manager.png" qualifiers="xhdpi-v4" type="drawable"/><file name="common_tab_message_manager_select" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\common_tab_message_manager_select.png" qualifiers="xhdpi-v4" type="drawable"/><file name="common_tab_me_select" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\common_tab_me_select.png" qualifiers="xhdpi-v4" type="drawable"/><file name="contact_gallery_list_hide" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\contact_gallery_list_hide.png" qualifiers="xhdpi-v4" type="drawable"/><file name="contact_gallery_list_show" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\contact_gallery_list_show.png" qualifiers="xhdpi-v4" type="drawable"/><file name="contact_wallet_gouxuan" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\contact_wallet_gouxuan.png" qualifiers="xhdpi-v4" type="drawable"/><file name="empty_data" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\empty_data.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_back" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\icon_back.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_back_white" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\icon_back_white.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_border" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\icon_border.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_border_rect" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\icon_border_rect.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_collect" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\icon_collect.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_collected" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\icon_collected.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_daijin" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\icon_daijin.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_hotel" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\icon_hotel.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_lipin" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\icon_lipin.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_location" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\icon_location.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_manjian" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\icon_manjian.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_not_open" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\icon_not_open.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_open_recent" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\icon_open_recent.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_selected" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\icon_selected.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_share" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\icon_share.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_share_white" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\icon_share_white.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_user" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\icon_user.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_zhekou" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\icon_zhekou.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="lbc_end" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\lbc_end.png" qualifiers="xhdpi-v4" type="drawable"/><file name="lbc_gostreight" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\lbc_gostreight.png" qualifiers="xhdpi-v4" type="drawable"/><file name="lbc_go_icon" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\lbc_go_icon.png" qualifiers="xhdpi-v4" type="drawable"/><file name="lbc_ic_call" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\lbc_ic_call.png" qualifiers="xhdpi-v4" type="drawable"/><file name="lbc_ic_call_gray" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\lbc_ic_call_gray.png" qualifiers="xhdpi-v4" type="drawable"/><file name="lbc_ic_call_phone" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\lbc_ic_call_phone.png" qualifiers="xhdpi-v4" type="drawable"/><file name="lbc_ic_call_phone_none" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\lbc_ic_call_phone_none.png" qualifiers="xhdpi-v4" type="drawable"/><file name="lbc_ic_end" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\lbc_ic_end.png" qualifiers="xhdpi-v4" type="drawable"/><file name="lbc_ic_goto_station" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\lbc_ic_goto_station.png" qualifiers="xhdpi-v4" type="drawable"/><file name="lbc_ic_list" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\lbc_ic_list.png" qualifiers="xhdpi-v4" type="drawable"/><file name="lbc_ic_location" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\lbc_ic_location.png" qualifiers="xhdpi-v4" type="drawable"/><file name="lbc_ic_map_image" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\lbc_ic_map_image.png" qualifiers="xhdpi-v4" type="drawable"/><file name="lbc_ic_search" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\lbc_ic_search.png" qualifiers="xhdpi-v4" type="drawable"/><file name="lbc_ic_search_black" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\lbc_ic_search_black.png" qualifiers="xhdpi-v4" type="drawable"/><file name="lbc_ic_search_gray" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\lbc_ic_search_gray.png" qualifiers="xhdpi-v4" type="drawable"/><file name="lbc_ic_start" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\lbc_ic_start.png" qualifiers="xhdpi-v4" type="drawable"/><file name="lbc_ic_station" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\lbc_ic_station.png" qualifiers="xhdpi-v4" type="drawable"/><file name="lbc_ic_station_select_new" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\lbc_ic_station_select_new.png" qualifiers="xhdpi-v4" type="drawable"/><file name="lbc_ic_zoom_big" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\lbc_ic_zoom_big.png" qualifiers="xhdpi-v4" type="drawable"/><file name="lbc_ic_zoom_big_select" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\lbc_ic_zoom_big_select.png" qualifiers="xhdpi-v4" type="drawable"/><file name="lbc_ic_zoom_small" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\lbc_ic_zoom_small.png" qualifiers="xhdpi-v4" type="drawable"/><file name="lbc_ic_zoom_small_select" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\lbc_ic_zoom_small_select.png" qualifiers="xhdpi-v4" type="drawable"/><file name="lbc_start" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\lbc_start.png" qualifiers="xhdpi-v4" type="drawable"/><file name="lbc_toleft" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\lbc_toleft.png" qualifiers="xhdpi-v4" type="drawable"/><file name="lbc_toright" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\lbc_toright.png" qualifiers="xhdpi-v4" type="drawable"/><file name="lbc_turnover" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\lbc_turnover.png" qualifiers="xhdpi-v4" type="drawable"/><file name="lbc_zoomin" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\lbc_zoomin.png" qualifiers="xhdpi-v4" type="drawable"/><file name="lbc_zoomout" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\lbc_zoomout.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ticket_daijin" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\ticket_daijin.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ticket_lipin" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\ticket_lipin.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ticket_manjian" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\ticket_manjian.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ticket_zhekou" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xhdpi\ticket_zhekou.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="lj_arrow_right" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xxhdpi\lj_arrow_right.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="lj_icon_clear" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\drawable-xxhdpi\lj_icon_clear.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_demo" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\layout\activity_demo.xml" qualifiers="" type="layout"/><file name="activity_mobile_list" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\layout\activity_mobile_list.xml" qualifiers="" type="layout"/><file name="activity_user_auth" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\layout\activity_user_auth.xml" qualifiers="" type="layout"/><file name="activity_user_detail" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\layout\activity_user_detail.xml" qualifiers="" type="layout"/><file name="lj_input_view" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\layout\lj_input_view.xml" qualifiers="" type="layout"/><file name="lj_item_multi_table_demo" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\layout\lj_item_multi_table_demo.xml" qualifiers="" type="layout"/><file name="lj_label_view" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\layout\lj_label_view.xml" qualifiers="" type="layout"/><file name="lj_multi_table_view" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\layout\lj_multi_table_view.xml" qualifiers="" type="layout"/><file name="lj_table_view" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\layout\lj_table_view.xml" qualifiers="" type="layout"/><file name="lj_title_bar" path="C:\Users\lenovo\workspace\Widget\app\src\main\res\layout\lj_title_bar.xml" qualifiers="" type="layout"/><file path="C:\Users\lenovo\workspace\Widget\app\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="LJ_Input_View">
+
+        <!-- 左侧图片 -->
+        <attr format="reference" name="inputLeftImage"/>
+        <!-- 左侧文字 -->
+        <attr format="string" name="inputLeftText"/>
+        <!-- 中间文字 -->
+        <attr format="string" name="inputContentText"/>
+        <!-- 中间文字 -->
+        <attr format="string" name="inputContentHint"/>
+        <!-- 右侧文字 -->
+        <attr format="string" name="inputBtnText"/>
+        <!-- 左侧文字颜色 -->
+        <attr format="reference|color" name="inputLeftTextColor"/>
+        <!-- 中间文字颜色 -->
+        <attr format="reference|color" name="inputContentTextColor"/>
+        <!-- 中间文字颜色 -->
+        <attr format="reference|color" name="inputHintColor"/>
+        <!-- 左侧文字数目，不够的已空格补充 -->
+        <attr format="integer" name="inputLeftCharNum"/>
+        <!-- 文本框文字最大字符数 -->
+        <attr format="integer" name="inputMaxInputLength"/>
+        <!-- 是否显示删除按钮 -->
+        <attr format="boolean" name="inputShowDelete"/>
+        <!-- 控件显示位置 -->
+        <attr name="inputViewType">
+            <flag name="top" value="0"/>
+            <flag name="center" value="1"/>
+            <flag name="bottom" value="2"/>
+            <flag name="single" value="3"/>
+        </attr>
+        <!-- 输入的文本类型 -->
+        <attr name="inputType">
+            <flag name="number" value="0"/>
+            <flag name="password" value="1"/>
+            <!-- 无限制 -->
+            <flag name="none" value="2"/>
+            <!-- 不允许输入 -->
+            <flag name="disable" value="3"/>
+        </attr>
+        <!-- 输入框文本对齐方式 -->
+        <attr name="inputTextAlign">
+            <flag name="left" value="0"/>
+            <flag name="center" value="1"/>
+            <flag name="right" value="2"/>
+        </attr>
+    </declare-styleable><declare-styleable name="LJ_Label_View">
+
+        <!-- 左侧文字 -->
+        <attr format="string" name="labelLeftText"/>
+        <!-- 中间文字 -->
+        <attr format="string" name="labelContentText"/>
+        <!-- 右侧文字 -->
+        <attr format="string" name="labelRightText"/>
+        <!-- 左侧文字颜色 -->
+        <attr format="reference|color" name="labelLeftColor"/>
+        <!-- 中间文字颜色 -->
+        <attr format="reference|color" name="labelContentColor"/>
+        <!-- 右侧文字颜色 -->
+        <attr format="reference|color" name="labelRightColor"/>
+    </declare-styleable><declare-styleable name="LJ_Table_View">
+
+        <!-- 左侧文字 -->
+        <attr format="string" name="leftText"/>
+        <!-- 右侧文字 -->
+        <attr format="string" name="rightText"/>
+        <!-- 右侧文字hint -->
+        <attr format="string" name="rightTextHint"/>
+        <!-- 中间文字 -->
+        <attr format="string" name="contentText"/>
+        <!-- 是否显示右箭头 -->
+        <attr format="boolean" name="showArrow"/>
+        <!-- 左侧文字颜色 -->
+        <attr format="reference|color" name="leftTextColor"/>
+        <!-- 中间文字颜色 -->
+        <attr format="reference|color" name="contentTextColor"/>
+        <!-- 右侧文字颜色 -->
+        <attr format="reference|color" name="rightTextColor"/>
+        <!-- 右侧文字暗提示颜色 -->
+        <attr format="reference|color" name="rightTextHintColor"/>
+        <!-- 左侧显示的图片 -->
+        <attr format="reference" name="leftImage"/>
+        <!-- 是否可以改变背景色 -->
+        <attr format="boolean" name="changeBackground"/>
+        <!-- 左侧文字数目，不够的已空格补充 -->
+        <attr format="integer" name="leftCharNum"/>
+        <!-- 控件显示位置 -->
+        <attr name="type">
+            <flag name="top" value="0"/>
+            <flag name="center" value="1"/>
+            <flag name="bottom" value="2"/>
+            <flag name="single" value="3"/>
+        </attr>
+    </declare-styleable><declare-styleable name="LJ_Multi_Table_View">
+
+        <!-- 左侧文字一 -->
+        <attr format="string" name="MTLeftText1"/>
+        <!-- 左侧文字二 -->
+        <attr format="string" name="MTLeftText2"/>
+        <!-- 左侧文字三 -->
+        <attr format="string" name="MTLeftText3"/>
+        <!-- 右侧文字一 -->
+        <attr format="string" name="MTRightText1"/>
+        <!-- 右侧文字二 -->
+        <attr format="string" name="MTRightText2"/>
+        <!-- 右侧文字一颜色 -->
+        <attr format="reference|color" name="MTRightTextColor1"/>
+        <!-- 右侧文字二颜色 -->
+        <attr format="reference|color" name="MTRightTextColor2"/>
+        <!-- 左侧文字二前部图片 -->
+        <attr format="reference" name="MTLeftImage2"/>
+        <!-- 左侧文字三前部图片 -->
+        <attr format="reference" name="MTLeftImage3"/>
+        <!-- 右侧第一行显示图片 -->
+        <attr format="reference" name="MTRightImage1"/>
+        <!-- 右侧第二行显示图片 -->
+        <attr format="reference" name="MTRightImage2"/>
+        <!-- 是否显示右箭头 -->
+        <attr format="boolean" name="MTShowArrow"/>
+        <!-- 是否可以改变背景色 -->
+        <attr format="boolean" name="MTChangeBackground"/>
+        <!-- 控件显示位置 -->
+        <attr name="MTType">
+            <flag name="top" value="0"/>
+            <flag name="center" value="1"/>
+            <flag name="bottom" value="2"/>
+            <flag name="single" value="3"/>
+        </attr>
+    </declare-styleable></file><file path="C:\Users\lenovo\workspace\Widget\app\src\main\res\values\colors.xml" qualifiers=""><color name="lj_color_app_bg">#EFEFEF</color><color name="lj_color_orange">#F6992B</color><color name="lj_textcolor_gray_lighter">#C5C5C5</color><color name="lj_textcolor_black_normal">#777777</color><color name="lj_textcolor_label_tip">#999999</color><color name="lj_color_yellow">#FFF090</color><color name="lj_color_blue_lighter">#BFE1FB</color><color name="lj_color_transparent">#00000000</color><color name="lj_color_white">#FFFFFF</color><color name="lj_color_gray_fill">#C5C5C5</color><color name="lj_color_green">#64A815</color><color name="lj_common_black_dark">#000000</color><color name="lj_textcolor_gray_normal">#999999</color><color name="lj_common_titlebar_bg">#F7F7F7</color><color name="lj_color_line_divider">#dfdfdf</color><color name="lj_color_red">#FA3335</color><color name="lj_color_black">#3F3F3F</color><color name="lj_textcolor_black_dark">#3F3F3F</color><color name="lj_color_black_lighter">#999999</color><color name="lj_textcolor_hint">#C5C5C5</color><color name="lj_color_blue">#0D85E2</color></file><file path="C:\Users\lenovo\workspace\Widget\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="lj_text_size_normal">16sp</dimen><dimen name="lj_text_size_big">18sp</dimen><dimen name="lj_divider_line_height">0.5dp</dimen><dimen name="lj_text_size_smaller">12sp</dimen><dimen name="lj_text_size_small">14sp</dimen></file><file path="C:\Users\lenovo\workspace\Widget\app\src\main\res\values\pulblic.xml" qualifiers=""><public id="0x7f010004" name="showArrow" type="attr"/><public id="0x7f010000" name="leftText" type="attr"/><public id="0x7f01000c" name="type" type="attr"/><public id="0x7f01000b" name="leftCharNum" type="attr"/><public id="0x7f01000a" name="changeBackground" type="attr"/></file><file path="C:\Users\lenovo\workspace\Widget\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">Widget</string></file><file path="C:\Users\lenovo\workspace\Widget\app\src\main\res\values\styles.xml" qualifiers=""><style name="lj_style_second_btn">
+        <item name="android:layout_height">46dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:background">@drawable/bg_common_rectangle_white</item>
+        <item name="android:textColor">@color/select_text_color_second_btn</item>
+        <item name="android:textSize">@dimen/lj_text_size_big</item>
+        <item name="android:gravity">center</item>
+    </style><style name="Animation">
+        <item name="android:activityOpenEnterAnimation">@null</item>
+        <item name="android:activityOpenExitAnimation">@null</item>
+        <item name="android:activityCloseEnterAnimation">@null</item>
+        <item name="android:activityCloseExitAnimation">@null</item>
+        <item name="android:taskOpenEnterAnimation">@null</item>
+        <item name="android:taskOpenExitAnimation">@null</item>
+        <item name="android:taskCloseEnterAnimation">@null</item>
+        <item name="android:taskCloseExitAnimation">@null</item>
+        <item name="android:taskToFrontEnterAnimation">@null</item>
+        <item name="android:taskToFrontExitAnimation">@null</item>
+        <item name="android:taskToBackEnterAnimation">@null</item>
+        <item name="android:taskToBackExitAnimation">@null</item>
+    </style><style name="lj_common_app_style">
+        <item name="android:background">@color/lj_color_app_bg</item>
+    </style><style name="lj_style_main_btn">
+        <item name="android:layout_height">46dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:background">@drawable/bg_common_circle_rectangle_blue</item>
+        <item name="android:textColor">@color/lj_color_white</item>
+        <item name="android:textSize">@dimen/lj_text_size_big</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginRight">@dimen/lj_text_size_normal</item>
+        <item name="android:layout_marginLeft">@dimen/lj_text_size_normal</item>
+    </style><style name="AppTheme" parent="android:Theme.Light.NoTitleBar">
+        <item name="android:windowAnimationStyle">@style/Animation</item>
+        <item name="android:configChanges">locale|keyboard|keyboardHidden|orientation</item>
+        <item name="android:launchMode">standard</item>
+        <item name="android:windowSoftInputMode">stateAlwaysHidden</item>
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:screenOrientation">portrait</item>
+    </style></file></source><source path="C:\Users\lenovo\workspace\Widget\app\build\generated\res\rs\debug"/><source path="C:\Users\lenovo\workspace\Widget\app\build\generated\res\generated\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\lenovo\workspace\Widget\app\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="LJ_Input_View"><attr format="reference" name="inputLeftImage"/><attr format="string" name="inputLeftText"/><attr format="string" name="inputContentText"/><attr format="string" name="inputContentHint"/><attr format="string" name="inputBtnText"/><attr format="reference|color" name="inputLeftTextColor"/><attr format="reference|color" name="inputContentTextColor"/><attr format="reference|color" name="inputHintColor"/><attr format="integer" name="inputLeftCharNum"/><attr format="integer" name="inputMaxInputLength"/><attr format="boolean" name="inputShowDelete"/><attr name="inputViewType"><flag name="top" value="0"/><flag name="center" value="1"/><flag name="bottom" value="2"/><flag name="single" value="3"/></attr><attr name="inputType"><flag name="number" value="0"/><flag name="password" value="1"/><flag name="none" value="2"/><flag name="disable" value="3"/></attr><attr name="inputTextAlign"><flag name="left" value="0"/><flag name="center" value="1"/><flag name="right" value="2"/></attr></declare-styleable><declare-styleable name="LJ_Multi_Table_View"><attr format="string" name="MTLeftText1"/><attr format="string" name="MTLeftText2"/><attr format="string" name="MTLeftText3"/><attr format="string" name="MTRightText1"/><attr format="string" name="MTRightText2"/><attr format="reference|color" name="MTRightTextColor1"/><attr format="reference|color" name="MTRightTextColor2"/><attr format="reference" name="MTLeftImage2"/><attr format="reference" name="MTLeftImage3"/><attr format="reference" name="MTRightImage1"/><attr format="reference" name="MTRightImage2"/><attr format="boolean" name="MTShowArrow"/><attr format="boolean" name="MTChangeBackground"/><attr name="MTType"><flag name="top" value="0"/><flag name="center" value="1"/><flag name="bottom" value="2"/><flag name="single" value="3"/></attr></declare-styleable><declare-styleable name="LJ_Label_View"><attr format="string" name="labelLeftText"/><attr format="string" name="labelContentText"/><attr format="string" name="labelRightText"/><attr format="reference|color" name="labelLeftColor"/><attr format="reference|color" name="labelContentColor"/><attr format="reference|color" name="labelRightColor"/></declare-styleable><declare-styleable name="LJ_Table_View"><attr format="string" name="leftText"/><attr format="string" name="rightText"/><attr format="string" name="rightTextHint"/><attr format="string" name="contentText"/><attr format="boolean" name="showArrow"/><attr format="reference|color" name="leftTextColor"/><attr format="reference|color" name="contentTextColor"/><attr format="reference|color" name="rightTextColor"/><attr format="reference|color" name="rightTextHintColor"/><attr format="reference" name="leftImage"/><attr format="boolean" name="changeBackground"/><attr format="integer" name="leftCharNum"/><attr name="type"><flag name="top" value="0"/><flag name="center" value="1"/><flag name="bottom" value="2"/><flag name="single" value="3"/></attr></declare-styleable></configuration></mergedItems></merger>

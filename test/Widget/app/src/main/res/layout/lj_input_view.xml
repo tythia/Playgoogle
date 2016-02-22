@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="46dp"
+    android:background="@color/lj_color_white"
+    android:orientation="horizontal"
+    android:paddingBottom="5dp"
+    android:paddingLeft="15dp"
+    android:paddingTop="5dp" >
+
+    <ImageView
+        android:id="@+id/iv_left"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginRight="10dp"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/tv_left"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginRight="15dp"
+        android:gravity="center_vertical"
+        android:singleLine="true"
+        android:text=""
+        android:textColor="@color/lj_textcolor_black_normal"
+        android:textSize="@dimen/lj_text_size_normal"
+        android:visibility="gone" />
+
+    <com.transfar.common.ui.view.widget.LJEditText
+        android:id="@+id/et_content"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1"
+        android:background="@color/lj_color_transparent"
+        android:singleLine="true"
+        android:text=""
+        android:textColor="@color/lj_textcolor_black_normal"
+        android:textSize="@dimen/lj_text_size_big" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingRight="15dp" >
+
+        <ImageView
+            android:id="@+id/iv_delete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"
+            android:paddingBottom="10dp"
+            android:paddingLeft="8dp"
+            android:paddingTop="10dp"
+            android:singleLine="true"
+            android:src="@drawable/lj_icon_clear"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/btn_submit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/bg_common_circle_rectangle_blue"
+            android:paddingBottom="5dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"
+            android:textColor="@color/select_text_color_identifycode"
+            android:textSize="@dimen/lj_text_size_big"
+            android:visibility="gone" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <com.transfar.common.ui.view.widget.LJMultiTableView
+        android:id="@+id/c_multi_table_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:MTLeftImage2="@drawable/icon_user"
+        app:MTRightTextColor1="@color/lj_color_black"
+        app:MTShowArrow="true"
+        app:MTType="center" />
+      <!--   app:MTRightImage2="@drawable/contact_gallery_list_hide" -->
+
+</LinearLayout>
