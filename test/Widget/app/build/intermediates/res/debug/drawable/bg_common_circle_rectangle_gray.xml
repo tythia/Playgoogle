@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
-
-    <item android:drawable="@drawable/circle_rectangle_gray_press" android:state_enabled="false"/>
-    <item android:drawable="@drawable/circle_rectangle_gray_press" android:state_pressed="true"/>
-    <item android:drawable="@drawable/circle_rectangle_gray_normal"/>
-
-</selector><!-- From: file:/C:/Users/lenovo/workspace/Widget/app/src/main/res/drawable/bg_common_circle_rectangle_gray.xml -->

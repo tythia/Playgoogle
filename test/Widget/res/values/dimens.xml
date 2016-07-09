@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="lj_divider_line_height">0.5dp</dimen>
-    <!-- 提交提示文字大小 -->
-    <dimen name="lj_text_size_big">18sp</dimen>
-    <dimen name="lj_text_size_normal">16sp</dimen>
-    <dimen name="lj_text_size_small">14sp</dimen>
-    <dimen name="lj_text_size_smaller">12sp</dimen>
-</resources>
