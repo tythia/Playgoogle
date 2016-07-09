@@ -21,14 +21,6 @@ import android.widget.TextView;
 
 import com.transfar.common.ui.R;
 
-/**
- * @author ruisong.li on 2015/11/16.
- * @Package com.transfar.lbcapp.component.view.widget
- * @Title: LJInputView
- * @Description: 自定义输入标签，支持文字输入+按钮及 （图片）+文字提示+输入框+提交按钮 Copyright (c) 传化物流版权所有
- *               2015<br>
- *               Create DateTime: 2015/11/16<br>
- */
 public class LJInputView extends RelativeLayout {
 
 	// 控件类型，上/中/下/单独条目

@@ -16,13 +16,6 @@ import android.widget.TextView;
 
 import com.transfar.common.ui.R;
 
-/**
- * @author ruisong.li on 2015/11/16.
- * @Package com.transfar.lbcapp.component.view.widget
- * @Title: LJMultiTableView
- * @Description: 左右布局，多行文本显示控件，最多支持三行 Copyright (c) 传化物流版权所有 2015<br>
- *               Create DateTime: 2015/11/16<br>
- */
 public class LJMultiTableView extends RelativeLayout {
 
 	// 控件类型，上/中/下/单独条目

@@ -29,13 +29,7 @@ import com.transfar.common.ui.R;
  * <attr name="leftCharNum" format="integer" /> <!-- 控件显示位置 --> <attr
  * name="type"> <flag name="top" value="0" /> <flag name="center" value="1" />
  * <flag name="bottom" value="2" /> <flag name="single" value="3" /> </attr>
- * 
- * @description 条目显示控件, 支持“左测文字-中间文字-右侧文字（-右箭头）”</br>
- *              “(左侧图片)-左侧文字-中间图片-右侧文字-右箭头”等样式
- * @author ruisong.li on 2015/11/12.
- * @Package com.transfar.lbcapp.ui.view.widget
- * @Title: LJTableView Copyright (c) 传化物流版权所有 2015<br>
- *         Create DateTime: 2015/11/12<br>
+ *
  */
 public class LJTableView extends RelativeLayout implements OnClickListener {
 
